@@ -208,17 +208,17 @@ export default function DashboardPage() {
                 title="Profit Margin"
                 value="$61,880"
                 percentage={75}
-                a="Paid"
+                a="Profit"
                 b="$81,880"
-                color="hsl(var(--chart-1))"
+                color="#3b82f6"
               />
               <KpiDonutChart
                 title="Gross Margin"
                 value="$78,542"
                 percentage={78}
-                a="Paid"
-                b="$78,542"
-                color="hsl(var(--chart-2))"
+                a="Margin"
+                b="$100,541"
+                color="#10b981"
               />
             </div>
             <div className="grid grid-cols-2 gap-4">
@@ -227,16 +227,16 @@ export default function DashboardPage() {
                 value="$12,222.90"
                 percentage={87}
                 a="Received"
-                b="$12,222.90"
-                color="hsl(var(--chart-3))"
+                b="$14,049"
+                color="#f59e0b"
               />
               <KpiDonutChart
                 title="Accounts Payable"
                 value="$3,222.10"
                 percentage={54}
                 a="Paid"
-                b="$3,222.10"
-                color="hsl(var(--chart-4))"
+                b="$5,967"
+                color="#8b5cf6"
               />
             </div>
           </div>
