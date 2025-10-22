@@ -97,6 +97,27 @@ npm start
 
 Open [http://localhost:3000](http://localhost:3000) to view the dashboard.
 
+## 🚀 Deploy to Vercel
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Melow04/rent-alytics)
+
+Your project is **deployment-ready**! ✅
+
+### Quick Deploy Steps:
+
+1. Push code to GitHub
+2. Go to [vercel.com/new](https://vercel.com/new)
+3. Import your repository
+4. Click "Deploy"
+
+See [DEPLOY.md](./DEPLOY.md) for detailed instructions.
+
+### Build Status
+- ✅ Production build tested and passing
+- ✅ All routes working correctly
+- ✅ TypeScript compilation successful
+- ✅ Static optimization enabled
+
 ## 🛠️ Technology Stack
 
 - **Framework**: Next.js 14 (App Router)
